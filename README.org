@@ -7,6 +7,6 @@ We support:
   -  Press
   -  Association on the Internet
 - The Right to:
-  - use, study, copy, modify, and redistribute computer programs  
+  - [[https://www.gnu.org/philosophy/free-sw.en.html][use, study, copy, modify, and redistribute computer programs]]
   - study, modify, distribute, make, and sell the design or hardware based on that design.
   - write software and engineer hardware unimpeded by private monopolies 
