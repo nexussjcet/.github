@@ -20,3 +20,7 @@ Clubs
 - Swathanthra Group, inaugurated by Richard M Stallman in 2010
 - ICFOSS Cell, joined in 2018
 - Mozilla Campus Club of SJCET, created at 2013
+- The FOSS Club of SJCET, joined as FOSS Club by FOSS United in 2024
+
+* The FOSS Club of SJCET
+The Nexus Project (Nexus SJCET) joined as FOSS Club of FOSS United. It is an initiative to promote free and open-source culture and collaboration among students through events, workshops, and networking in college campus.
