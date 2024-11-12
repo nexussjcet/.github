@@ -1,5 +1,5 @@
-* The Nexus, SJCET
-The Nexus, SJCET was formed on 12 September, 2018 by a few free thinkers to support and organize Free/Libre and Open-Source Software and Hardware related activities in [[http://nexus.sjcetpalai.ac.in][SJCET, Palai]]. 
+# The Nexus, SJCET
+The Nexus, SJCET was formed on 12 September, 2018 by a few free thinkers to support and organize Free/Libre and Open-Source Software and Hardware related activities in [SJCET](http://nexus.sjcetpalai.ac.in). 
 
 We support:
 - The freedoms of:
@@ -7,11 +7,11 @@ We support:
   -  Press
   -  Association on the Internet
 - The Right to:
-  - [[https://www.gnu.org/philosophy/free-sw.en.html][use, study, copy, modify, and redistribute computer programs]]
+  - [use, study, copy, modify, and redistribute computer programs](https://www.gnu.org/philosophy/free-sw.en.html)
   - study, modify, distribute, make, and sell the design or hardware based on that design.
   - write software and engineer hardware unimpeded by private monopolies 
 
-* The Nexus Project
+# The Nexus Project
 The Nexus Project was a sort of place dedicated for software and hardware freedom functioning from SJCET Palai. Created by Abraham Reji in November 11, 2018. 
 
 In 2022 the Nexus was restructured by Rajat Mathew as the FOSS Club of SJCET, combining 3 generations of open source software clubs under one umbrella.
@@ -20,7 +20,3 @@ Clubs
 - Swathanthra Group, inaugurated by Richard M Stallman in 2010
 - ICFOSS Cell, joined in 2018
 - Mozilla Campus Club of SJCET, created at 2013
-- The FOSS Club of SJCET, joined as FOSS Club by FOSS United in 2024
-
-* The FOSS Club of SJCET
-The Nexus Project (Nexus SJCET) joined as FOSS Club of FOSS United. It is an initiative to promote free and open-source culture and collaboration among students through events, workshops, and networking in college campus.
